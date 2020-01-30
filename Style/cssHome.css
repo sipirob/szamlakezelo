@@ -1,0 +1,17 @@
+.thumbnail{
+    background-image: url('../pictures/officecover.jpg');
+    background-size: cover;
+    text-align: center;
+    padding-top: 520px;
+    padding-bottom: 520px;
+background-attachment: fixed;
+color: white;
+}
+#loginbtn{
+    width: 200px;
+    height: 100px;
+}
+#billsearch_result{
+    margin-left: -100px;
+    margin-right: -100px;
+}
